@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\gepmerge\\gepproject\\assets\\scripts\\cardcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\assets\\scripts\\playercontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\assets\\scripts\\enemyspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\assets\\scripts\\attackobjects\\attackobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackobjects\\attackobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\assets\\scripts\\partition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\partition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE110C1-AB12-EBA8-D080-CA609003496F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAcwH4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:14:31.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttackObject.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\AttackObjects\\AttackObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackObjects\\AttackObject.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\AttackObjects\\AttackObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackObjects\\AttackObject.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:04:25.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardCast.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\CardCast.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardCast.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\CardCast.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardCast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:21:07.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:45:42.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BossController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\BossController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\BossController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:01:47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Partition.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\Partition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Partition.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\Partition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Partition.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:13:36.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwF4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:12:22.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemySpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\EnemySpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawnManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\EnemySpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawnManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:23:20.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerControll.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\PlayerControll.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControll.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge\\GEPproject\\Assets\\Scripts\\PlayerControll.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControll.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwFYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:32:11.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

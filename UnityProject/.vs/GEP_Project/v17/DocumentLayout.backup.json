@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\gepmerge_0611\\gep_project\\assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\gepmerge_0611\\gep_project\\assets\\scripts\\attackobjects\\attackobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackobjects\\attackobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\playercontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\ui\\wavecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\wavecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\enemyspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\views\\handview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\views\\handview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\system\\selectcardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\system\\selectcardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\attackobjects\\stickybomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackobjects\\stickybomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\cardcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\data\\carddata\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\carddata\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\partition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\partition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\ui\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\ui\\endingplayerwalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\endingplayerwalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\creators\\cardviewcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creators\\cardviewcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\attackobjects\\verticalslash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackobjects\\verticalslash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\attackobjects\\mose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackobjects\\mose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\attackobjects\\orbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackobjects\\orbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\attackobjects\\effectobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackobjects\\effectobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\attackobjects\\bloodlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackobjects\\bloodlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\ui\\startbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\startbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\system\\playerdeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\system\\playerdeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\assets\\scripts\\attackobjects\\firebreath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F1CBEF-9D01-CFD3-AC9A-0B5702D81DAB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackobjects\\firebreath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\SilverBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AttackObjects\\SilverBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BossController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\BossController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\BossController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T03:56:12.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaveCounter.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\UI\\WaveCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\WaveCounter.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\UI\\WaveCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\WaveCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:42:07.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Partition.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\Partition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Partition.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\Partition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Partition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:32:36.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\UI\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\UI\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:32:29.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EndingPlayerWalk.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\UI\\EndingPlayerWalk.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\EndingPlayerWalk.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\UI\\EndingPlayerWalk.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\EndingPlayerWalk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:32:29.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CardViewCreator.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\Creators\\CardViewCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Creators\\CardViewCreator.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\Creators\\CardViewCreator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Creators\\CardViewCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:32:26.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VerticalSlash.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\VerticalSlash.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackObjects\\VerticalSlash.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\VerticalSlash.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackObjects\\VerticalSlash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:32:24.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Mose.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\Mose.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackObjects\\Mose.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\Mose.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackObjects\\Mose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:32:16.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Orbit.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\Orbit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackObjects\\Orbit.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\Orbit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackObjects\\Orbit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:32:16.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EffectObject.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\EffectObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackObjects\\EffectObject.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\EffectObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackObjects\\EffectObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:32:15.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAQwMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:31:06.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Startbtn.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\UI\\Startbtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Startbtn.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\UI\\Startbtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Startbtn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:17:22.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectCardSystem.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\System\\SelectCardSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\System\\SelectCardSystem.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\System\\SelectCardSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\System\\SelectCardSystem.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvy4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:11:17.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlayerDeck.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\System\\PlayerDeck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\System\\PlayerDeck.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\System\\PlayerDeck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\System\\PlayerDeck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:06:47.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemySpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\EnemySpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawnManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\EnemySpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:15:46.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StickyBomb.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\StickyBomb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackObjects\\StickyBomb.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\StickyBomb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackObjects\\StickyBomb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:52:51.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SilverBullet.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\SilverBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackObjects\\SilverBullet.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\SilverBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackObjects\\SilverBullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:50:23.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BloodLord.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\BloodLord.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackObjects\\BloodLord.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\BloodLord.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackObjects\\BloodLord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:48:22.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FireBreath.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\FireBreath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackObjects\\FireBreath.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\FireBreath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackObjects\\FireBreath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:44:14.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CardCast.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\CardCast.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardCast.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\CardCast.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardCast.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAUwFEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:13:40.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttackObject.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\AttackObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackObjects\\AttackObject.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\AttackObjects\\AttackObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackObjects\\AttackObject.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:44:08.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerControll.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\PlayerControll.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControll.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\PlayerControll.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControll.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAkwK8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:24:57.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CardData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\Data\\CardData\\CardData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\CardData\\CardData.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\Data\\CardData\\CardData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\CardData\\CardData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:18:35.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HandView.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\Views\\HandView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Views\\HandView.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\uD559\uAD50\\2025-1 (3-1)\\\uAC9C\uC5D4\uD504\\GEPMerge_0611\\GEP_Project\\Assets\\Scripts\\Views\\HandView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Views\\HandView.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAmwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:16:23.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
