@@ -138,15 +138,10 @@ foreach (var enemy in GetAllEnemiesInPartitionGroups(nearby)) {
 
 ## 🎥 시연 장면
 
-![게임 플레이 화면](image/그림3.png)
-타이틀 화면
-
-![게임 플레이 화면](image/그림1.png)
-게임 시작 직후 화면
-
-![게임 플레이 화면](image/그림2.png)
-카드 덱 배치 
-
+<p align="left">
+  <img src="image/그림3.png" width=500>
+  <img src="image/그림1.png" width=500>
+</p>
 
 
 ---
